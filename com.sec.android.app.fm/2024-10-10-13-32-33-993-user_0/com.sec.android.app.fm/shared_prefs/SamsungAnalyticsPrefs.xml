@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="sendCommonTime" value="1728586561596" />
+    <string name="appVersion">11.0.01.2</string>
+    <int name="enable_device" value="1" />
+    <boolean name="sendCommonSuccess" value="true" />
+</map>
